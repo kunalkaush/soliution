@@ -1,2 +1,2 @@
-# soliution
+# solution
 assignment repository
